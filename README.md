@@ -49,14 +49,12 @@ for:
 
 ## 📸 Screenshots
 
-  Screen             Preview
-  ------------------ -------------------------------------------------
-  🏠 Dashboard       ![Dashboard](<img width="1777" height="717" alt="image" src="https://github.com/user-attachments/assets/62f47fc3-0d9b-4e57-a856-b883fd1c9e6b" />
-)
-  ➕ Add Employee    ![Add Employee](<img width="1672" height="879" alt="image" src="https://github.com/user-attachments/assets/3c9470c9-e3aa-47dc-bc15-59f3083aa3b7" />
-)
-  ✏️ Edit Employee   ![Edit Employee](<img width="1670" height="901" alt="image" src="https://github.com/user-attachments/assets/cac0468f-cc8d-427b-b484-5f7a3bf0e1e7" />
-)
+| Screen | Preview |
+|--------|---------|
+| 🏠 Dashboard | <img src="https://github.com/user-attachments/assets/62f47fc3-0d9b-4e57-a856-b883fd1c9e6b" width="600"> |
+| ➕ Add Employee | <img src="https://github.com/user-attachments/assets/3c9470c9-e3aa-47dc-bc15-59f3083aa3b7" width="600"> |
+| ✏️ Edit Employee | <img src="https://github.com/user-attachments/assets/cac0468f-cc8d-427b-b484-5f7a3bf0e1e7" width="600"> |
+
 
 ------------------------------------------------------------------------
 
