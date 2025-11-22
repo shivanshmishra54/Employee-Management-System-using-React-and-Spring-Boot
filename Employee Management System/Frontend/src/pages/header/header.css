@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+   
+    background-color: aqua;
+    
+}
+
+.navbar .navbar-brand{
+    color: #fff;
+    
+}
+
+.navbar .navbar-link{
+    color: #fff;
+    text-decoration: none;
+    margin-right: 15px;
+    
+}
+
+@media  (max-width: 576px) {
+    .navbar .navbar-link {
+       margin-right: 0;
+    }
+    
+}
